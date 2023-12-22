@@ -1,7 +1,7 @@
 # ivancracks
 rm -rf ivancracks
 
-gitclone https://github.com/NRN-404/ivancracks
+git clone https://github.com/NRN-404/ivancracks
 
 cd ivancracks
 
